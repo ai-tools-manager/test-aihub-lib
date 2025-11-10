@@ -1,5 +1,6 @@
 {
   "name": "test lib",
   "description": "test lib for aihub",
+  "pref": "test_pref",
   "manifest": "library for tests only"
 }
